@@ -12,6 +12,8 @@ dependencies = [
     "isort>=9.0.2",
     "langchain>=1.4.9",
     "langchain-anthropic>=1.7.10",
+    "langchain-core>=1.7.6",
+    "langsmith>=0.14.17",
     "python-dotenv>=1.2.4",
 ]
 
